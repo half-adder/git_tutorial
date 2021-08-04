@@ -1,3 +1,3 @@
 # git_tutorial
 
-Lorem ipsum
+Shmorem shmipsum
